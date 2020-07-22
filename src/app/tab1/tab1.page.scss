@@ -1,0 +1,28 @@
+
+.post{
+    border:1px solid grey;
+    border-radius: 5px;
+    margin: 15px 10px;
+    text-align: center;
+
+}
+
+
+.info{
+    margin-top: 5px;
+
+    .message{
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+    }
+    
+} 
+
+.user{
+    font-family:"Merriweather', serif";
+    font-weight: 500;
+    text-align:left;
+    justify-content: space-between;
+    --color:blue;
+}
